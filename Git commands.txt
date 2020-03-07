@@ -3,6 +3,9 @@ git cinfig --global user.email 'text'
 
 git init
 
+Add remote repository on HitHub:
+git remote add origin text
+
 git status
 
 Add to staging area:
