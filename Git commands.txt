@@ -1,0 +1,16 @@
+git config --global user.name 'text'
+git cinfig --global user.email 'text'
+
+git init
+
+git status
+
+Add to staging area:
+git add .
+
+Remove from staging area:
+git reset .
+
+Commit files:
+git commit -m 'text'
+
