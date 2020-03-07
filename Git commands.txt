@@ -17,3 +17,6 @@ git reset .
 Commit files:
 git commit -m 'text'
 
+Send files to GitHub:
+git push origin master
+
